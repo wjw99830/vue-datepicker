@@ -3,7 +3,7 @@ datepicker for Vue 2
 # Install
 > npm i -S vue-w-datepicker
 # Example
-`<w-datepicker v-model="myDateString" seperator="-" />`
+`<w-datepicker v-model="myDateString" separator="-" />`
 # APIs
 * Props:
-   * `seperator: String = '-'`: seperator between year, month and date;
+   * `separator: String = '-'`: separator between year, month and date;
