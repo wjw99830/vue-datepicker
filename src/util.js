@@ -1,0 +1,1 @@
+export const formatDate = (date, separator = '-') => `${date.getFullYear()}${separator}${date.getMonth() + 1}${separator}${date.getDate()}`
