@@ -141,6 +141,7 @@ export default {
 }
 .w-date-focus {
   border-color: #0ae;
+  box-shadow: 0 0 20px -5px #0ae;
 }
 .w-calendar {
   width: 230px;
